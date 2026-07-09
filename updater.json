@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGhSM3QvSHFxWGdvYmlQMlRiWmc2MzZyUTVXd28ybGNPTlVnNFJCMWJMNG1USWdjTDllNUhnTkNsWFAxU0orQWtpNTZlaERMeldTUTZzWDA4R1M0WFl4M3NieGZWYWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjMxNzg5CWZpbGU6Um9sdmVuIFJvbGVwbGF5IExhdW5jaGVyXzAuMS4wX3g2NC1zZXR1cC5uc2lzLnppcAp2eEtCaXRTUjRWdGNnbDN2YUxzUVVEY0tnSERHMUVmRlN4VE9Bc1FXdkNwb0pocGgvenZ6VE5hWEJrY2o4Y25ya0gzZjREU3RHNitGd2FEeXRzblVBUT09Cg==",
-      "url": "https://github.com/Jxptheryn/launcher/releases/download/v0.1.0/Rolven.Roleplay.Launcher_0.1.0_x64-setup.nsis.zip"
+      "url": "https://raw.githubusercontent.com/Jxptheryn/launcher/main/Rolven.Roleplay.Launcher_0.1.0_x64-setup.nsis.zip"
     }
   }
 }
